@@ -1,5 +1,5 @@
 {
-  "name": "mathx",
+  "name": "mathix",
   "version": "1.0.0",
   "description": "amazing mathematical library",
   "homepage": "https://github.com/abdo-mohamed-fawzy-coding/mathX#readme",
@@ -14,8 +14,8 @@
     "access": "public"
   },
   "license": "ISC",
-  "author": "",
-  "type": "commonjs",
+  "author": "abdo_blue2",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
